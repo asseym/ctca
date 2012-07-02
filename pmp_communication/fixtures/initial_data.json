@@ -1,0 +1,230 @@
+[
+    {
+        "pk": 1,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 1,
+            "communication_date": "2012-04-11",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    },
+    {
+        "pk": 2,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 2,
+            "communication_date": "2011-04-11",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    },
+    {
+        "pk": 3,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 3,
+            "communication_date": "2012-04-11",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": false
+        }
+    },
+    {
+        "pk": 4,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 4,
+            "communication_date": "2012-04-04",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    },
+    {
+        "pk": 5,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 1,
+            "communication_date": "2012-04-11",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    },
+    {
+        "pk": 6,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 1,
+            "communication_date": "2012-04-10",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    },
+    {
+        "pk": 7,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 1,
+            "communication_date": "2012-04-11",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    },
+    {
+        "pk": 8,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 1,
+            "communication_date": "2012-04-09",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    },
+    {
+        "pk": 9,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 3,
+            "communication_date": "2012-03-11",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    },
+    {
+        "pk": 10,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 3,
+            "communication_date": "2012-02-11",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    },
+    {
+        "pk": 11,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 1,
+            "communication_date": "2012-04-07",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    },
+    {
+        "pk": 12,
+        "model": "pmp_communication.communication",
+        "fields": {
+            "title": "Communication event to communicate bla bla bla",
+            "communication_type": 1,
+            "communication_date": "2012-04-11",
+            "objectives": "these were the objectives",
+            "channel": "this is the channel",
+            "target_audience": "teachers, guys, some lawyers",
+            "recommendations": "we recommend that we do this again",
+            "challenges": "we were so challenged, seriously!",
+            "lessons": "we learned nothing!",
+            "action_points": "mbu we did great!",
+            "remarks": "the remarks here",
+            "attachments": "",
+            "entry_status": true
+        }
+    }
+]
